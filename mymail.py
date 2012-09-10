@@ -9,7 +9,7 @@ smtp_port = 25
 import smtplib
 class mymail():
     """
-    Library to sendmail from ramlab_things@126.com
+    Library to sendmail from your email address using pop3
     see sendmail()
     """
     def __init__(self):

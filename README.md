@@ -1,2 +1,5 @@
-gsm-sms-forwarder
-=================
+Forward GSM-SMS via email.
+
+Hardware: Siemens TC35
+
+
