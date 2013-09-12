@@ -131,4 +131,4 @@ def send2str(OutNum,TEXT):
 	    
 if __name__=="__main__":
     print "pdu.py: __main__"
-    print send2str('13810378201',u'你好这是王康短信猫上来的短信哦，可好玩了')
+    print send2str('10086',u'你好这是短信猫上来的短信哦，可好玩了')
